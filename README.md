@@ -3,7 +3,7 @@ A collection of scripts and tools I use often.
 
 All these scripts are for Windows.
 
-For scripts using ADB, make sure you either define your adb path or declare it as a system path.
+For scripts using adb, make sure you either define your adb path or declare it as a system path.
 
 [ADB Push Temp (Drag)](https://github.com/jbro129/jbro129s-tools/blob/main/ADB%20Push%20Temp%20(Drag).bat) : script to send a file to the temp directory of your android device using adb.
 
